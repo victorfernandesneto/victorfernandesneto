@@ -1,5 +1,5 @@
 # Hi! I'm Victor!
-Math teacher, soon-to-be amateur boxer that loves technology. I mainly study Python but I'm always interested in understanding other languages and fields.
+Math teacher, soon-to-be amateur boxer that loves technology.
 
 ### Technologies I work with:
 
