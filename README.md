@@ -9,10 +9,9 @@ Math teacher, soon-to-be amateur boxer that loves technology.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange?style=for-the-badge&logo=java&logoColor=white)
 
 ### Currently studying:
-
-[![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 ### Contact me via
 
