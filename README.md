@@ -12,7 +12,7 @@ Math teacher, soon-to-be amateur boxer that loves technology.
 
 ### Currently studying:
 
-![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=openjdk&logoColor=black)
+![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=java&logoColor=black)
 
 ### Contact me via
 
