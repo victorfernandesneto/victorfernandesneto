@@ -9,6 +9,7 @@ Math teacher, soon-to-be amateur boxer that loves technology.
 ### Currently studying:
 
 ![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=openjdk&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Contact me via
 
