@@ -1,10 +1,17 @@
 # Hi! I'm Victor!
-Math teacher, soon-to-be amateur boxer that loves technology.
+
+Former math teacher, deeply in love with Java and boxing.
 
 ### Technologies I work with:
 
-![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-gray?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
 
 ### Contact me via
 
