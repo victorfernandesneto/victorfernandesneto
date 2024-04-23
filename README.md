@@ -3,8 +3,8 @@ Math teacher, soon-to-be amateur boxer that loves technology.
 
 ### Technologies I work with:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Contact me via
 
