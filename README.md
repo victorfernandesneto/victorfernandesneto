@@ -1,6 +1,6 @@
 # Hi! I'm Victor!
 
-Former math teacher, deeply in love with Java and boxing.
+Math teacher, deeply in love with Java and combat sports.
 
 ### Technologies I work with:
 
